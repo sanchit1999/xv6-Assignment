@@ -1,0 +1,10 @@
+Name - Sanchit Saini
+Roll No - 20171191
+
+1) Implemented ps system call which displays list of processes with their names, id, status and priority
+2) All Processes are initially given 60 priority.
+3) Initially if we run ps command, output is-
+	Name 	 Process id 	 State 	 	Priority
+	init 	      1 	 	SLEEPING 	    60
+	sh 	      	  2 	  	SLEEPING 	    60
+	ps 	      	  3 	 	RUNNING  	    60
